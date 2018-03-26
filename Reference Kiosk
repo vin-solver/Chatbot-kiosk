@@ -1,0 +1,24 @@
+Chatbot based on wildml.com
+https://github.com/dennybritz/chatbot-retrieval
+
+Reddit comment based chatbot
+https://github.com/pender/chatbot-rnn
+
+One other reddit based - Coherent Personality based
+https://github.com/bshao001/ChatLearner
+
+standford chatbot
+https://github.com/chiphuyen/stanford-tensorflow-tutorials/blob/master/assignments/chatbot/chatbot.py
+
+Seems to be a simple AI - importantly uses keras
+https://github.com/anujdutt9/AI-Chatbot
+
+Chatbot projects list
+https://github.com/fendouai/Awesome-Chatbot
+
+## Chatbot Tutorials
+Deep Learning Based Chatbot tutorial
+http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
+
+Sentdex python Chatbot based tutorial
+https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/
